@@ -12,5 +12,5 @@ edge：the relationship between utterances and personas and the relationship bet
 
 
 **Average length statistics**<br/>
-setence level 7.5
-docoment level 487.7
+setence level text knowledge 7.5 <br/>
+docoment level text knowledge 487.7  <br/>
